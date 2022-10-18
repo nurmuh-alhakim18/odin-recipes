@@ -1,2 +1,3 @@
 # odin-recipes
-Creating basic web with HTML
+
+Simple project for indonesian food recipes using html
